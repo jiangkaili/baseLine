@@ -1,0 +1,11 @@
+asgiref==3.3.1
+certifi==2020.12.5
+configparser==5.0.1
+Django==3.1.4
+django-restframework==0.0.1
+djangorestframework==3.12.2
+flask-restframework==0.2.1
+PyMySQL==0.10.1
+pytz==2020.4
+redis==3.5.3
+sqlparse==0.4.1

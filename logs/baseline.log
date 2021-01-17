@@ -1,0 +1,105 @@
+INFO 2020-12-25 09:59:56,634 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 09:59:58,952 basehttp 157 "GET / HTTP/1.1" 200 16299
+INFO 2020-12-25 09:59:59,028 basehttp 157 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2020-12-25 09:59:59,126 basehttp 157 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2020-12-25 09:59:59,140 basehttp 157 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2020-12-25 09:59:59,155 basehttp 157 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2020-12-25 10:00:36,936 basehttp 157 "GET / HTTP/1.1" 200 16299
+INFO 2020-12-25 10:00:45,399 basehttp 157 "GET /static/attack.jpg HTTP/1.1" 200 25790
+INFO 2020-12-25 10:00:54,160 basehttp 157 "GET /static/index.html HTTP/1.1" 200 1830
+INFO 2020-12-25 10:00:54,193 basehttp 157 "GET /static/axios.min.js HTTP/1.1" 200 14237
+INFO 2020-12-25 10:00:54,203 basehttp 157 "GET /static/vue.min.js HTTP/1.1" 200 93670
+INFO 2020-12-25 10:08:53,580 autoreload 240 /Users/jkl/Opt/pythonProjects/Base/BaseLine/BaseLine/__init__.py changed, reloading.
+INFO 2020-12-25 10:08:54,473 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 10:12:52,920 basehttp 157 "GET / HTTP/1.1" 200 16299
+INFO 2020-12-25 10:12:57,144 basehttp 157 "GET / HTTP/1.1" 200 16299
+INFO 2020-12-25 10:13:09,224 basehttp 157 "GET /static/favicon.jpg HTTP/1.1" 200 41874
+INFO 2020-12-25 10:13:51,278 autoreload 617 Watching for file changes with StatReloader
+WARNING 2020-12-25 10:13:55,901 basehttp 157 "GET /static/favicon.jpg HTTP/1.1" 404 1659
+INFO 2020-12-25 10:13:58,744 basehttp 157 "GET /static/favicon.ico HTTP/1.1" 200 41874
+INFO 2020-12-25 10:14:01,521 basehttp 157 "GET / HTTP/1.1" 200 16299
+INFO 2020-12-25 10:14:25,564 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 10:14:29,112 basehttp 157 "GET / HTTP/1.1" 200 16299
+INFO 2020-12-25 10:14:33,513 basehttp 157 "GET / HTTP/1.1" 200 16299
+INFO 2020-12-25 10:14:39,836 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 10:14:44,794 basehttp 157 "GET / HTTP/1.1" 200 16299
+INFO 2020-12-25 10:14:57,856 basehttp 157 "GET / HTTP/1.1" 200 16299
+INFO 2020-12-25 10:15:28,303 basehttp 157 "GET / HTTP/1.1" 200 16299
+INFO 2020-12-25 10:15:29,129 basehttp 157 "GET / HTTP/1.1" 200 16299
+INFO 2020-12-25 10:15:29,946 basehttp 157 "GET / HTTP/1.1" 200 16299
+INFO 2020-12-25 10:15:30,112 basehttp 157 "GET / HTTP/1.1" 200 16299
+INFO 2020-12-25 10:15:32,981 basehttp 157 "GET / HTTP/1.1" 200 16299
+INFO 2020-12-25 10:15:40,894 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 10:15:53,596 basehttp 157 "GET / HTTP/1.1" 200 16299
+INFO 2020-12-25 10:15:59,782 basehttp 157 "GET /static/favicon.jpg HTTP/1.1" 200 41874
+INFO 2020-12-25 10:16:29,109 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 10:16:31,378 basehttp 157 "GET / HTTP/1.1" 200 16299
+INFO 2020-12-25 10:16:31,425 basehttp 157 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2020-12-25 10:16:31,518 basehttp 157 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2020-12-25 10:16:31,520 basehttp 157 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2020-12-25 10:16:31,526 basehttp 157 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2020-12-25 10:16:59,007 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 10:17:01,628 basehttp 157 "GET / HTTP/1.1" 200 16299
+INFO 2020-12-25 10:18:31,180 autoreload 240 /Users/jkl/Opt/pythonProjects/Base/BaseLine/BaseLine/settings.py changed, reloading.
+INFO 2020-12-25 10:18:33,361 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 10:29:00,044 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 10:29:09,883 basehttp 157 "GET / HTTP/1.1" 200 16299
+INFO 2020-12-25 10:32:30,855 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 10:32:33,008 basehttp 157 "GET / HTTP/1.1" 200 16299
+INFO 2020-12-25 10:34:23,593 autoreload 240 /Users/jkl/Opt/pythonProjects/Base/BaseLine/BaseLine/settings.py changed, reloading.
+INFO 2020-12-25 10:34:25,391 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 10:34:42,817 autoreload 240 /Users/jkl/Opt/pythonProjects/Base/BaseLine/BaseLine/settings.py changed, reloading.
+INFO 2020-12-25 10:34:44,519 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 10:35:04,789 autoreload 240 /Users/jkl/Opt/pythonProjects/Base/BaseLine/BaseLine/settings.py changed, reloading.
+INFO 2020-12-25 10:35:06,152 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 10:46:18,339 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 10:47:03,318 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 10:47:22,014 basehttp 157 "GET / HTTP/1.1" 200 1952
+INFO 2020-12-25 10:47:22,126 basehttp 157 "GET /static/vue.min.js HTTP/1.1" 200 93670
+INFO 2020-12-25 10:47:22,129 basehttp 157 "GET /static/axios.min.js HTTP/1.1" 200 14237
+INFO 2020-12-25 10:47:22,154 basehttp 157 "GET /static/attack.jpg HTTP/1.1" 200 25790
+INFO 2020-12-25 10:47:22,788 autoreload 240 /Users/jkl/Opt/pythonProjects/Base/BaseLine/BaseLine/settings.py changed, reloading.
+INFO 2020-12-25 10:47:24,476 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 10:47:26,757 basehttp 157 "GET /static/axios.min.map HTTP/1.1" 200 117473
+INFO 2020-12-25 10:47:28,999 basehttp 157 "POST /findAll HTTP/1.1" 200 171
+INFO 2020-12-25 10:52:18,479 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 10:52:52,372 autoreload 240 /Users/jkl/Opt/pythonProjects/Base/BaseLine/BaseLine/settings.py changed, reloading.
+INFO 2020-12-25 10:52:53,970 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 11:07:54,811 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 11:10:08,972 autoreload 240 /Users/jkl/Opt/pythonProjects/Base/BaseLine/BaseLine/apps/checkinfo/views.py changed, reloading.
+INFO 2020-12-25 11:10:11,176 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 11:10:26,512 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 11:10:29,622 basehttp 157 "GET / HTTP/1.1" 200 1952
+WARNING 2020-12-25 11:10:57,258 log 230 Forbidden (CSRF cookie not set.): /getAllData
+WARNING 2020-12-25 11:10:57,259 basehttp 157 "POST /getAllData HTTP/1.1" 403 2795
+INFO 2020-12-25 11:11:00,303 basehttp 157 "GET /static/axios.min.map HTTP/1.1" 200 117473
+WARNING 2020-12-25 11:11:05,588 log 230 Forbidden (CSRF cookie not set.): /getAllData
+WARNING 2020-12-25 11:11:05,589 basehttp 157 "POST /getAllData HTTP/1.1" 403 2795
+INFO 2020-12-25 11:12:48,100 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 11:12:49,986 basehttp 157 "GET / HTTP/1.1" 200 1951
+INFO 2020-12-25 11:12:50,267 basehttp 157 "GET /static/axios.min.map HTTP/1.1" 200 117473
+INFO 2020-12-25 11:12:51,505 basehttp 157 "GET /getAllData HTTP/1.1" 200 3221
+INFO 2020-12-25 11:35:23,144 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 11:35:24,962 basehttp 157 "GET / HTTP/1.1" 200 1888
+INFO 2020-12-25 11:37:39,825 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 11:37:49,704 basehttp 157 "GET / HTTP/1.1" 200 1911
+INFO 2020-12-25 11:38:16,601 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-25 11:38:27,080 basehttp 157 "GET / HTTP/1.1" 200 1923
+INFO 2020-12-25 11:39:11,274 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-01-13 11:03:55,859 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-01-13 11:03:59,067 basehttp 157 "GET / HTTP/1.1" 200 1889
+INFO 2021-01-13 11:03:59,173 basehttp 157 "GET /static/vue.min.js HTTP/1.1" 200 93670
+INFO 2021-01-13 11:03:59,221 basehttp 157 "GET /static/attack.jpg HTTP/1.1" 200 25790
+INFO 2021-01-13 11:03:59,230 basehttp 157 "GET /static/axios.min.js HTTP/1.1" 200 14237
+WARNING 2021-01-13 11:03:59,733 log 230 Not Found: /favicon.ico
+WARNING 2021-01-13 11:03:59,738 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 2545
+INFO 2021-01-13 11:05:14,231 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-01-13 11:25:23,850 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-01-13 11:26:19,117 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-01-13 11:28:15,964 basehttp 157 "GET /getAllData HTTP/1.1" 200 3221
+INFO 2021-01-13 11:28:17,097 basehttp 157 "POST /findAll HTTP/1.1" 200 171
+INFO 2021-01-13 11:29:34,942 basehttp 157 "GET /getAllData HTTP/1.1" 200 3221
+INFO 2021-01-13 11:29:37,355 basehttp 157 "GET /getAllData HTTP/1.1" 200 3221
+INFO 2021-01-13 11:29:37,954 basehttp 157 "GET /getAllData HTTP/1.1" 200 3221
+INFO 2021-01-13 11:29:38,494 basehttp 157 "GET /getAllData HTTP/1.1" 200 3221
+INFO 2021-01-13 11:30:01,210 basehttp 157 "GET /getAllData HTTP/1.1" 200 3221

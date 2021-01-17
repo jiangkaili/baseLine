@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>文件上传</title>
+    <script type="text/javascript" src="../static/axios.min.js"></script>
+    <script type="text/javascript" src="../static/vue.min.js"></script>
+    <script>
+        window.onload = function () {
+            let vm = new Vue({
+                el: "#app",
+                methods: {
+                    update(e) {
+                        let file = e.target.files[0];
+                        let param = new FormData();
+                        param.append('file', file);
+                        console.log(param.get('file'))
+                        let config = {
+                            headers: {'Content-Type': 'multipart/form-data'}
+                        };
+                        axios.post('http://127.0.0.1:8000/upload', param, config)
+                            .then(response => {
+                                alert("上传成功！！")
+                            })
+                    },
+                    findAll(e) {
+                        axios.post('http://127.0.0.1:8000/findAll')
+                            .then(response => {
+                                alert("数据脱敏操作完成！！！！")
+                            })
+                    },
+                    getAllData(e) {
+                        axios.get('http://127.0.0.1:8000/getAllData')
+                            .then(response => {
+                                alert("脱库完成！！！！！")
+                            })
+                    }
+                }
+            })
+        }
+    </script>
+
+</head>
+
+<body>
+<div id="app">
+    <div >
+        <h3 @click="findAll()">数据脱敏</h3>
+        <h3 @click="getAllData()">脱库操作</h3>
+    </div>
+    <div>
+        <img src="../static/attack.jpg" alt="攻击图片">
+    </div>
+
+</div>
+
+</body>
+</html>
